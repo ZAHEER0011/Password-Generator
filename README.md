@@ -2,7 +2,7 @@
 
 Welcome to **SecurePass** – A simple, yet powerful password generator that helps you create **strong & secure passwords** to keep your accounts safe. With an intuitive UI and customizable options, generating complex passwords has never been easier!  
 
-🚀 **Live Website**: [Click Here to Try Now!](#)  
+🚀 **Live Website**: [Click Here to Try Now!]([#](https://zaheer0011.github.io/SecurePass/))  
 
 ---
 
@@ -44,7 +44,7 @@ Welcome to **SecurePass** – A simple, yet powerful password generator that hel
 
 ---
 
-## 📌 Live Website: **[Click Here to Try Now](#)**  
+## 📌 Live Website: **[Click Here to Try Now]([#](https://zaheer0011.github.io/SecurePass/))**  
 
 ---
 
@@ -53,7 +53,7 @@ Currently, the website **is not fully responsive**, but we plan to make it mobil
 
 Feel free to **contribute**, **fork**, or **suggest improvements**. Your feedback is always welcome!  
 
-📌 **GitHub Repo:** [Your GitHub Repo Link]  
+📌 **GitHub Repo:** [[Your GitHub Repo Link](https://github.com/ZAHEER0011/SecurePass)]  
 
 🎉 If you like this project, give it a ⭐ and share your thoughts! Happy coding! 🚀  
 
