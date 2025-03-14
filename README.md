@@ -22,7 +22,7 @@ Welcome to **SecurePass** – A simple, yet powerful password generator that hel
 
 ## 🔥 Live Demo  
 
-🚀 **Try it here** ➝ [Live Website]((https://zaheer0011.github.io/SecurePass))  
+🚀 **Try it here** ➝ [Live Website](https://zaheer0011.github.io/SecurePass)  
 
 (Website is currently **not fully responsive**, but we'll work on making it mobile-friendly soon! 📱)  
 
@@ -44,7 +44,7 @@ Welcome to **SecurePass** – A simple, yet powerful password generator that hel
 
 ---
 
-## 📌 Live Website: **[Click Here to Try Now]([#](https://zaheer0011.github.io/SecurePass/))**  
+## 📌 Live Website: **[Click Here to Try Now](https://zaheer0011.github.io/SecurePass/)**  
 
 ---
 
